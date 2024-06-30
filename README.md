@@ -1,5 +1,7 @@
 # CONFIGURACIÓN de PRIORIDAD de CPU para JUEGOS y APLICACIONES en WINDOWS 🎮💻
 
+- La prioridad de gráficos en sistemas operativos, como Windows, se refiere a la capacidad del sistema para asignar recursos de procesamiento gráfico a aplicaciones específicas, como juegos y software de diseño. Esta función es crucial para garantizar un rendimiento óptimo de las aplicaciones que dependen intensamente de los recursos gráficos, proporcionando una experiencia fluida y visualmente atractiva para el usuario.
+
 > [!NOTE]
 > Este script de batch está diseñado para configurar la prioridad de CPU de varios juegos o aplicaciones en Windows para mejorar su rendimiento. La configuración establece una prioridad alta permanentemente a los procesos especificados, lo que puede resultar en una ejecución más fluida y rápida de los juegos.
 
